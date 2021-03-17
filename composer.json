@@ -38,9 +38,9 @@
 		"forum": "http://forum.codeigniter.com/",
 		"source": "https://github.com/codeigniter4/CodeIgniter4",
 		"slack": "https://codeigniterchat.slack.com"
-	},
-	"post-install-cmd": [
-		"chmod -R 777 public/",
-		"chmod -R 777 writeable/",
-	]
+	}
+	// "post-install-cmd": [
+	// 	"chmod -R 777 public/",
+	// 	"chmod -R 777 writeable/",
+	// ]
 }
