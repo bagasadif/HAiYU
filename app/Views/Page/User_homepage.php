@@ -32,7 +32,7 @@
 
             <h4><?= session('info') ?></h4>
             <h2>Hello <?= session('username') ?>!</h2>
-            <h1>Learn your Hardskill <br> for The Great Future</h1>
+            <h1>Learn your Hard Skill <br> for The Great Future</h1>
         </div>
 
         <div class="btn-container">
