@@ -4,7 +4,7 @@ Website Bimbel Online untuk tingkat SMA dan sederajat
 https://haiyu.herokuapp.com
 
 ## Teknologi
-PHP, Codeigniter 4, MySQL
+PHP 7, Codeigniter 4, MySQL
 
 ## Anggota Kelompok :  
 1. Farhan Gunadi (140810190009).  
