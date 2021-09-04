@@ -1,5 +1,5 @@
 # Judul Proyek : HAiYU (Hardskill for You).  
-Website Bimbel Online untuk tingkat SMA dan sederajat
+Web Bimbel Online untuk tingkat SMA dan sederajat
 
 https://haiyu.herokuapp.com
 
