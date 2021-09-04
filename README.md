@@ -1,21 +1,30 @@
 # Judul Proyek : HAiYU (Hardskill for You).  
+Website Bimbel Online untuk tingkat SMA dan sederajat
+
+## Teknologi
+PHP, Codeigniter 4, MySQL
+
 ## Anggota Kelompok :  
 1. Farhan Gunadi (140810190009).  
 2. Aghniya Abdurrahman Mannan (140810190025).  
 3. Bagas Adi Firdaus (140810190037).  
+
 ## Fungsi :  
 1. Menyediakan materi-materi pelajaran SMA yang akan diperlukan di tes masuk perguruan tinggi.  
 2. Menyediakan bank-bank soal untuk tes masuk perguruan tinggi.  
 3. Sebagai wadah untuk bertanya jawab (konsul) kepada guru mengenai mata pelajaran terkait.  
 4. Menyediakan informasi seputar perguruan tinggi dan jurusannya.  
+
 ## Tujuan :  
 1. Memudahkan para pelajar SMA dalam meningkatkan hardskill mereka sesuai bidang minatnya (IPA/IPS).   
 2. Membantu para pelajar SMA/SMK yang ingin melanjutkan pendidikannya ke tingkat perguruan tinggi dengan cara menyediakan informasi seputar perguruan tinggi dan menyediakan bank-bank soal seperti tryout dan sebagainya.  
 3. Menjadikan website ini sebagai salah satu wadah untuk mendapatkan pendidikan secara gratis.  
+
 ## Target Pengguna :  
 1. Guru, sebagai yang memfasilitasi tanya jawab dari pengguna web.  
 2. Siswa SMA.   
 3. Siswa SMK yang ingin melanjutkan ke jenjang perguruan tinggi.    
+
 ## Mockup kasar :
 1. Homepage  
 ![Mockup Homepage https://i.ibb.co/02CBYxH/Homepage-mockup.png](https://i.ibb.co/02CBYxH/Homepage-mockup.png)  
@@ -31,6 +40,7 @@
 ![Mockup Navbar https://i.ibb.co/w00V6Lq/Navbar-mockup.png](https://i.ibb.co/w00V6Lq/Navbar-mockup.png)  
 7. Login Page  
 ![Mockup Login Page https://i.ibb.co/n1FK3bf/Login-mockup.png](https://i.ibb.co/n1FK3bf/Login-mockup.png)  
+
 ## Skema Database :  
 1. ERD  
 ![Skema ERD](Skema%20Database/ERD%20dbhaiyu.png)  
