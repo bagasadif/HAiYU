@@ -84,19 +84,19 @@
         <div>
             <img src="../images/rahman.png" alt="Aghniya Abdurrahman Mannan">
             <br>
-            <a href="https://instagram.com/rahman.mannan">Aghniya Abdurrahman Mannan</a>
+            <a href="https://www.linkedin.com/in/aabdurrahmanm/">Aghniya Abdurrahman Mannan</a>
         </div>
 
         <div>
             <img src="../images/bagas.png" alt="Bagas Adi Firdaus">
             <br>
-            <a href="https://instagram.com/adifirdauss">Bagas Adi Firdaus</a>
+            <a href="https://www.linkedin.com/in/bagasadif/">Bagas Adi Firdaus</a>
         </div>
 
         <div>
             <img src="../images/igun.png" alt="Farhan Gunadi">
             <br>
-            <a href="https://instagram.com/frhn232">Farhan Gunadi</a>
+            <a href="https://www.linkedin.com/in/farhangunadi/">Farhan Gunadi</a>
         </div>
 
 
