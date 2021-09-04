@@ -1,6 +1,8 @@
 # Judul Proyek : HAiYU (Hardskill for You).  
 Website Bimbel Online untuk tingkat SMA dan sederajat
 
+https://haiyu.herokuapp.com
+
 ## Teknologi
 PHP, Codeigniter 4, MySQL
 
